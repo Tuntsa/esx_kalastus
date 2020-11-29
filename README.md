@@ -2,4 +2,5 @@
 
 Pystyt missä vain kalastaan saat kaikkia esineitä mitä 
 Lisäät serveri puolelle vaan itemit mitä haluat saada
+
 Discord: Tuntematon#7912
